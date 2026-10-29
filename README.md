@@ -1,6 +1,6 @@
 # SMART or HYPE – link page
 
-Link-in-bio page for the SMART or HYPE tech shorts: https://j2-x-man.github.io/smartorhype/
+Link-in-bio page for the SMART or HYPE tech shorts: https://links.smartorhype.com
 
 - `products.json` – one entry per video (date = publish day; future entries stay hidden until that day)
 - `python build.py` – rebuilds `index.html`
