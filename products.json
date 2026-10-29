@@ -1,42 +1,60 @@
 [
- {
-  "date": "2026-11-02",
-  "name": "Alexa Photo Frame",
-  "brand": "Amazon",
-  "video": "Amazon's First Picture Frame Picks Your Memories for You",
-  "price": "from $199.99",
-  "url": "https://www.amazon.com/dp/B0H3CPKKVN?th=1&tag=smartorhype-20&creatorsDisableRedirect=true"
- },
- {
-  "date": "2026-10-31",
-  "name": "Echo Show 16",
-  "brand": "Amazon",
-  "video": "Amazon Wants $500 for a Screen on Your Kitchen Wall",
-  "price": "from $499.99",
-  "url": "https://www.amazon.com/dp/B0HFL4Z81P?th=1&tag=smartorhype-20&creatorsDisableRedirect=true"
- },
- {
-  "date": "2026-10-31",
-  "name": "Baseus Security U2 Pro",
-  "brand": "Baseus",
-  "video": "This $280 Camera Hunts Intruders With a Spotlight",
-  "price": "$279.99 list",
-  "url": "https://www.amazon.com/dp/B0HHCGXDZ4?th=1&tag=smartorhype-20&creatorsDisableRedirect=true"
- },
- {
-  "date": "2026-10-30",
-  "name": "Kindle (2026)",
-  "brand": "Amazon",
-  "video": "Every New Kindle Got $40 Pricier – Is Colorsoft Worth $290?",
-  "price": "$149.99",
-  "url": "https://www.amazon.com/dp/B0H964FWGK?th=1&tag=smartorhype-20&creatorsDisableRedirect=true"
- },
- {
-  "date": "2026-10-29",
-  "name": "Bee Frontier",
-  "brand": "Amazon",
-  "video": "Amazon's $75 Bracelet Listens to Everything You Say",
-  "price": "$74.99",
-  "url": "https://www.amazon.com/dp/B0GPS3YMYL?th=1&tag=smartorhype-20&creatorsDisableRedirect=true"
- }
+  {
+    "date": "2026-11-02",
+    "name": "Alexa Photo Frame",
+    "brand": "Amazon",
+    "video": "Amazon's First Picture Frame Picks Your Memories for You",
+    "price": "from $199.99",
+    "url": "https://www.amazon.com/dp/B0H3CPKKVN?th=1&tag=smartorhype-20&creatorsDisableRedirect=true"
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Echo Show 16",
+    "brand": "Amazon",
+    "video": "Amazon Wants $500 for a Screen on Your Kitchen Wall",
+    "price": "from $499.99",
+    "url": "https://www.amazon.com/dp/B0HFL4Z81P?th=1&tag=smartorhype-20&creatorsDisableRedirect=true"
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Baseus Security U2 Pro",
+    "brand": "Baseus",
+    "video": "This $280 Camera Hunts Intruders With a Spotlight",
+    "price": "$279.99 list",
+    "url": "https://www.amazon.com/dp/B0HHCGXDZ4?th=1&tag=smartorhype-20&creatorsDisableRedirect=true"
+  },
+  {
+    "date": "2026-10-30",
+    "name": "Kindle (2026)",
+    "brand": "Amazon",
+    "video": "Every New Kindle Got $40 Pricier – Is Colorsoft Worth $290?",
+    "price": "$149.99",
+    "url": "https://www.amazon.com/dp/B0H964FWGK?th=1&tag=smartorhype-20&creatorsDisableRedirect=true"
+  },
+  {
+    "date": "2026-10-29",
+    "name": "Bee Frontier",
+    "brand": "Amazon",
+    "video": "Amazon's $75 Bracelet Listens to Everything You Say",
+    "price": "$74.99",
+    "url": "https://www.amazon.com/dp/B0GPS3YMYL?th=1&tag=smartorhype-20&creatorsDisableRedirect=true"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "StackChan",
+    "brand": "M5Stack",
+    "video": "This $99 Robot Is Basically a Face on a Cube",
+    "price": "$99",
+    "url": "https://shop.m5stack.com/products/stackchan-kawaii-co-created-open-source-ai-desktop-robot",
+    "button": "View at M5Stack store"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "Nirva AI Jewelry",
+    "brand": "Nirva",
+    "video": "This $249 Necklace Tells You Which Friends Drain You",
+    "price": "$249",
+    "url": "https://www.nirva.life",
+    "button": "Join the preorder list"
+  }
 ]

@@ -23,7 +23,7 @@ def card(p):
         <div class="meta"><span class="brand">{e.get('brand', '')}</span><span class="price">{e.get('price', '')}</span></div>
         <h2>{e['name']}</h2>
         <p class="video">From the video: <em>{e.get('video', '')}</em></p>
-        <a class="buy" href="{e['url']}" target="_blank" rel="sponsored nofollow noopener">View on Amazon <span aria-hidden="true">→</span></a>
+        <a class="buy" href="{e['url']}" target="_blank" rel="{'sponsored nofollow noopener' if 'amazon.' in p['url'] else 'noopener'}">{e.get('button', 'View on Amazon')} <span aria-hidden="true">→</span></a>
       </li>"""
 
 
